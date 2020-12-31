@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "team-pwapilipinas"
+    }
+  },
+  "defaultProject": "team-pwapilipinas",
+  "cli": {
+    "analytics": "20db93a7-94c4-4166-8c32-2b9e14508b47"
+  }
 }
